@@ -70,8 +70,10 @@ Here are some ideas to get you started:
 <a align="left" href="https://github.com/HarryMao115">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=120&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+%7C;+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
 </a>
-
-<p align='center'>
+<br/>
+<br/>
+<hr/>
+<p align='right'>
   <a href="mailto:petj.ring@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
