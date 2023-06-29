@@ -18,8 +18,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/HarryMao115/HarryMao115/blob/main/Information-Technology-PNG-Pic.png" alt="Information-Technology-PNG-Pic.png">
 </div>
 
-<a href="https://github.com/HarryMao115">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+|+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
+<a align="left" href="https://github.com/HarryMao115">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+|+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
+<a href="https://app.daily.dev/harrymao">
+  <img src="https://api.daily.dev/devcards/5d8108822ff24e43aabe92ed3405b587.png?r=lyk" width="400" alt="Harry Mao's Dev Card"/>
+</a>
 
 ## ✨ Welcome
 
