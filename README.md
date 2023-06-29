@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/power-BI.jpg">
+<img src="https://github.com/HarryMao115/HarryMao115/blob/main/power-BI.jpg">
 
-<a href="https://github.com/JosiTubaroski">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+%7C;+DataBase+Intergration+%7C;+API+Integration+%7C;+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
+<a href="https://github.com/HarryMao115">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+%7C;+DataBase+Intergration+|+API+Integration+%7C;+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
 
 ## ✨ Welcome
 
@@ -85,9 +85,9 @@ Here are some ideas to get you started:
   
 <h3 align="left">Contact:</h3>  
   
-<img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/futuristic-cityscape.jpg">
+<img src="https://github.com/HarryMao115/HarryMao115/blob/main/futuristic-cityscape.jpg">
     
-<a href="https://jositubaroski.github.io/" target="_blank">
+<a href="https://HarryMao115.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/-Site-%23AD0C6D?style=for-the-badge&Color=white" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/%F0%9F%92%BBjozeliane-josi-quoos-tubaroski-1878a3228/" target="_blank">
@@ -122,17 +122,17 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <a href="https://github.com/JosiTubaroski">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosiTubaroski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiTubaroski&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/HarryMao115">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HarryMao115&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMao115&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
   
 <div> 
  
-  ![Snake animation](https://github.com/JosiTubaroski/JosiTubaroski/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/HarryMao115/HarryMao115/blob/main/github-contribution-grid-snake.svg)
     
-  [![Github](https://img.shields.io/github/followers/Jositubaroski?label=Follow&style=social)](https://github.com/Jositubaroski)
+  [![Github](https://img.shields.io/github/followers/HarryMao115?label=Follow&style=social)](https://github.com/HarryMao115)
 
 </div>
     
