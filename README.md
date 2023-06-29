@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/HarryMao115">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HarryMao115&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMao115&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiTubaroski&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <br><br><br><br><hr>
