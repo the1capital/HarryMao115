@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/power-BI.jpg">
 
 <a href="https://github.com/JosiTubaroski">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+%7C;+DataBase+Intergration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=2000&pause=100&multiline=true&width=500&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+%7C;+DataBase+Intergration+%7C;+API+Integration+%7C;+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
 
 ## ✨ Welcome
 
