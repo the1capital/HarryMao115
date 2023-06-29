@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/HarryMao115/HarryMao115/blob/main/Information-Technology-PNG-Pic.png" alt="Information-Technology-PNG-Pic.png">
+<img src="https://github.com/HarryMao115/HarryMao115/blob/main/Information-Technology-PNG-Pic.png" alt="Information-Technology-PNG-Pic.png">
 
 <a href="https://github.com/HarryMao115">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+|+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
@@ -127,6 +127,7 @@ Here are some ideas to get you started:
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMao115&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
 <div> 
  
