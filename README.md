@@ -128,7 +128,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <a href="https://github.com/HarryMao115">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Harryao115&show_icons=true&theme=buefy" />
 </a>
 <br><br><br><br><hr>
 <h3>TOOLS</h3>
