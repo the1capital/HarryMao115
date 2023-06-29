@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  
 <h3 align="left">Testing Tools:</h3>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
   <img alt="selenium" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
@@ -79,29 +78,15 @@ Here are some ideas to get you started:
 <a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"> 
   <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a>
-
 </div>
-
 <div> 
-  
 <h3 align="left">Contact:</h3>  
-  
-<img src="https://github.com/HarryMao115/HarryMao115/blob/main/futuristic-cityscape.jpg">
-    
-<a href="https://HarryMao115.github.io/" target="_blank">
+<a href="https://ai-interior-design1.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Site-%23AD0C6D?style=for-the-badge&Color=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/%F0%9F%92%BBjozeliane-josi-quoos-tubaroski-1878a3228/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 <a href = "mailto:josiquoos@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-<a href="https://www.instagram.com/jojoquoostubaroski/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-
-</div>
 <h1 font-weight="bold">
   📮 How to reach me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
@@ -111,10 +96,7 @@ Here are some ideas to get you started:
   <a href="mailto:petj.ring@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <!-- <a href="https://discordapp.com/users/Genie#7900">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a> -->
-  <a href="https://join.skype.com/invite/ou1rf7wkUsao" target="_blank">
+  <a href="https://join.skype.com/invite/q7kutPqmW3gp" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
 </p>
