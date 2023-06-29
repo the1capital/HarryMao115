@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 <div>
 
+<a href="https://app.daily.dev/harrymao">
+  <img align="right" src="https://github.com/HarryMao115/HarryMao115/blob/main/devcard.svg" width="400" alt="Harry Mao's Dev Card"/>
+</a>
+
 - 🔭 I’m currently working on Freelancer
 - 🤔 I’m looking for opportunity to be a member of an agency or a team
 - 💡 Open to collaborating on projects and innovative ideas.
@@ -74,9 +78,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<a href="https://app.daily.dev/harrymao">
-  <img align="right" src="https://github.com/HarryMao115/HarryMao115/blob/main/devcard.svg" width="400" alt="Harry Mao's Dev Card"/>
-</a>
 <hr/>
 
 </div>
