@@ -91,6 +91,7 @@ Here are some ideas to get you started:
 ## Coding Activity
 
 <br/>
+<br/>
 
 <div align="center">
   <a href="https://github.com/HarryMao115">
