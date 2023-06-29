@@ -72,7 +72,6 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <br/>
-<hr/>
 <p align='right'>
   <a href="mailto:petj.ring@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
