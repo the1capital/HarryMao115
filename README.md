@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/HarryMao115/HarryMao115/blob/main/power-BI.jpg">
+<img src="https://github.com/HarryMao115/HarryMao115/blob/main/Information-Technology-PNG-Pic.png" alt="Information-Technology-PNG-Pic.png">
 
 <a href="https://github.com/HarryMao115">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+|+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
