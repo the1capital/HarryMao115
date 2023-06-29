@@ -127,8 +127,9 @@ Here are some ideas to get you started:
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMao115&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yash16jr&show_icons=true&theme=radical)<br>
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yash16jr&layout=compact)](https://github.com/yash16jr/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HarryMao115" />
+</a>
 <br><br><br><br><hr>
 <h3>TOOLS</h3>
   
