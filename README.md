@@ -18,13 +18,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/HarryMao115/HarryMao115/blob/main/Information-Technology-PNG-Pic.png" alt="Information-Technology-PNG-Pic.png">
 </div>
 
-  ## ✨ Welcome
+## ✨ Welcome
+
 <div>
 <a href="https://app.daily.dev/harrymao">
   <img align="right" src="https://github.com/HarryMao115/HarryMao115/blob/main/devcard.svg" width="400" alt="Harry Mao's Dev Card"/>
-</a>
-<a align="left" href="https://github.com/HarryMao115">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=120&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+%7C;+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
 </a>
 
 - 🔭 I’m currently working on Freelancer
@@ -68,6 +66,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
 </div>
 </div>
+
+<a align="left" href="https://github.com/HarryMao115">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=120&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+%7C;+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
+</a>
 
 <p align='center'>
   <a href="mailto:petj.ring@gmail.com" target="_blank">
