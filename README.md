@@ -17,16 +17,15 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/HarryMao115/HarryMao115/blob/main/Information-Technology-PNG-Pic.png" alt="Information-Technology-PNG-Pic.png">
 </div>
-
-<a align="left" href="https://github.com/HarryMao115">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+|+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
-
-## ✨ Welcome
-
+<div>
 <a href="https://app.daily.dev/harrymao">
-  <img align="right" src="https://api.daily.dev/devcards/5d8108822ff24e43aabe92ed3405b587.png?r=lyk" width="400" alt="Harry Mao's Dev Card"/>
+  <img align="right" src="https://github.com/HarryMao115/HarryMao115/blob/main/devcard.svg" width="400" alt="Harry Mao's Dev Card"/>
 </a>
 
+  ## ✨ Welcome
+<a align="left" href="https://github.com/HarryMao115">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=80&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+|+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
+</a>
 
 - 🔭 I’m currently working on Freelancer
 - 🤔 I’m looking for opportunity to be a member of an agency or a team
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about problems arising in development of your site
 
 <h3 align="left">Languages and Tools:</h3> 
-    
+  
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -67,6 +66,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
+</div>
 </div>
 
 <p align='center'>
