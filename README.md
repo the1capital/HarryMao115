@@ -79,18 +79,6 @@ Here are some ideas to get you started:
   <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a>
 </div>
-<div> 
-<h3 align="left">Contact:</h3>  
-<a href="https://ai-interior-design1.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Site-%23AD0C6D?style=for-the-badge&Color=white" target="_blank">
-</a>
-<a href = "mailto:josiquoos@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<h1 font-weight="bold">
-  📮 How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
 
 <p align='center'>
   <a href="mailto:petj.ring@gmail.com" target="_blank">
