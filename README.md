@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div>
 
-<a href="https://app.daily.dev/harrymao">
+<a href="https://app.daily.dev/harrymao" target="_blank">
   <img align="right" src="https://github.com/HarryMao115/HarryMao115/blob/main/devcard.svg" width="400" alt="Harry Mao's Dev Card"/>
 </a>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for opportunity to be a member of an agency or a team
 - 💡 Open to collaborating on projects and innovative ideas.
 - 💬 Ask me about problems arising in development of your site
-- 😄 You can find me here.  https://harrymao115.netlify.app/
+- 😄 You can find me here. https://harrymao115.netlify.app/
 
 <h3 align="left">Languages and Tools:</h3> 
   
