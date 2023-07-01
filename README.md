@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for opportunity to be a member of an agency or a team
 - 💡 Open to collaborating on projects and innovative ideas.
 - 💬 Ask me about problems arising in development of your site
+- 😄 You can find me here.  https://harrymao115.netlify.app/
 
 <h3 align="left">Languages and Tools:</h3> 
   
