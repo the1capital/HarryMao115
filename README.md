@@ -89,7 +89,8 @@ Here are some ideas to get you started:
 ## Coding Activity
 
 <br/>
-<br/>
+<!--Graph-->
+![Harry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarryMao115&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <div align="center">
   <a href="https://github.com/HarryMao115">
