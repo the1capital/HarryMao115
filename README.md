@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for opportunity to be a member of an agency or a team
 - 💡 Open to collaborating on projects and innovative ideas.
 - 💬 Ask me about problems arising in development of your site
-- 😄 You can find me here. https://harrymao115.netlify.app/
-  https://ai-interior-design115.netlify.app
-  https://harry-next-approuter-ts-tailwind.netlify.app
+- 😄 You can find me here. <br/>
+  https://harrymao115.netlify.app/ <br/>
+  https://ai-interior-design115.netlify.app <br/>
+  https://harry-next-approuter-ts-tailwind.netlify.app <br/>
 
 <h3 align="left">Languages and Tools:</h3> 
   
