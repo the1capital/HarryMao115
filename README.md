@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - 💡 Open to collaborating on projects and innovative ideas.
 - 💬 Ask me about problems arising in development of your site
 - 😄 You can find me here. https://harrymao115.netlify.app/
+  https://ai-interior-design115.netlify.app
+  https://harry-next-approuter-ts-tailwind.netlify.app
 
 <h3 align="left">Languages and Tools:</h3> 
   
